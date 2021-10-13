@@ -8,12 +8,6 @@ AS A manager at an internet retail company
 I WANT a back end for my e-commerce website that uses the latest technologies
 SO THAT my company can compete with other e-commerce companies
 
-## Installation 
-* Download or clone the repository 
-* Run npm install
-* npm run seed
-* Type "npm start"
-
 ## Table of Contents
   * [Description](#description)
   * [Installation](#installation)
@@ -31,9 +25,13 @@ https://github.com/ColinNebula/colin-ecommerce-back-end/tree/main
 
 ![Screenshot 2021-10-05 144904](https://user-images.githubusercontent.com/57843842/137183063-c19db03d-197c-4ccb-b862-eaa69afb6ee5.jpg)
 
-## Installation ( 2 Methods)
+## Project Screenshot
+![Project Screenshot](https://user-images.githubusercontent.com/57843842/137198160-a9ecf39c-8860-467a-b841-fb551a6e606f.jpg)
+
+## Installation 
 * Download or clone the repository 
 * Run npm install
+* npm run seed
 * Type "npm start"
 
 ## License
