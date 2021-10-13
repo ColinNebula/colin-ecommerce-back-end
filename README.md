@@ -14,6 +14,10 @@ SO THAT my company can compete with other e-commerce companies
   * [License](#license)
   * [Credits](#credits)
 
+
+## Project URL
+https://watch.screencastify.com/v/4Ki35ysI0fjSLjxcD5YT
+
 ## Project Github Repository
 https://github.com/ColinNebula/colin-ecommerce-back-end/tree/main
 
